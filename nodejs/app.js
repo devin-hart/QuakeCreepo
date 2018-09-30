@@ -21,9 +21,10 @@ const quakeWriteLog = fs.createWriteStream(__dirname + '/write.txt');
 console.log(quakeLogPath);
 
 
-quakeReadLog.on('data', function(data) {
+quakeReadLog.on('data', function(quakeLog) {
   console.log("Writing to write.txt file ...");
-  quakeWriteLog.write(data);
+  quakeWriteLog.write(quakeLog);
+  console.log(quakeLog);
 });
 
 //listen for request on port 3000, and as a callback function have the port listened on logged

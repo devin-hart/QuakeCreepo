@@ -170,7 +170,6 @@ bprint("Spawn dies\n");
 };
 void()	tbaby_die2	=[	$exp,		tbaby_run1	] 
 {
-	bprint("Spawn dies\n");
 	T_RadiusDamage (self, self, 120, world);
 
 	sound (self, CHAN_VOICE, "blob/death1.wav", 1, ATTN_NORM);

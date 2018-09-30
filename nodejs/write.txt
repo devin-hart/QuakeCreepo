@@ -1,0 +1,126 @@
+LOG started on: 09/30/2018 19:03:49 
+Playing registered version.
+Console initialized.
+UDP Initialized
+WIPX_OpenSocket: Address family not supported by protocol family
+WIPX_Init: Unable to open control socket, IPX disabled
+Exe: 05:06:16 Aug  6 2018
+256.0 megabyte heap
+Video mode 1920x1080x24 60Hz (24-bit z-buffer, 0x FSAA) initialized
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1050 Ti/PCIe/SSE2
+GL_VERSION: 4.6.0 NVIDIA 411.70
+FOUND: ARB_vertex_buffer_object
+FOUND: ARB_multitexture
+GL_MAX_TEXTURE_UNITS: 4
+FOUND: ARB_texture_env_combine
+FOUND: ARB_texture_env_add
+FOUND: SDL_GL_SetSwapInterval
+FOUND: EXT_texture_filter_anisotropic
+FOUND: ARB_texture_non_power_of_two
+FOUND: GLSL
+
+Sound Initialization
+SDL audio spec  : 44100 Hz, 1024 samples, 2 channels
+SDL audio driver: directsound - Speakers (Realtek High Definition Audio), 65536 bytes buffer
+Audio: 16 bit, stereo, 44100 Hz
+CDAudio disabled at compile time
+
+========= Quake Initialized =========
+
+execing quake.rc
+execing default.cfg
+execing config.cfg
+couldn't exec autoexec.cfg
+3 demo(s) in loop
+]map qctest
+
+FITZQUAKE 0.85 SERVER (3273 CRC)
+
+
+
+
+Using protocol 666
+Couldn't find a cdrip for track 0
+You got the Quad Damage
+You got the Rocket Launcher
+You got the rockets
+You got the rockets
+You got the Pentagram of Protection
+Spawn dies
+Rottweiler dies
+Grunt dies
+]map qctest
+
+FITZQUAKE 0.85 SERVER (3273 CRC)
+
+
+
+
+Using protocol 666
+Couldn't find a cdrip for track 0
+You got the Quad Damage
+You got the Rocket Launcher
+You got the rockets
+You got the Pentagram of Protection
+Spawn dies
+]map qctest
+
+FITZQUAKE 0.85 SERVER (3273 CRC)
+
+
+
+
+Using protocol 666
+Couldn't find a cdrip for track 0
+You got the Rocket Launcher
+You got the rockets
+You got the Quad Damage
+You got the rockets
+Spawn dies
+]map qctest
+
+FITZQUAKE 0.85 SERVER (3273 CRC)
+
+
+
+
+Using protocol 666
+Couldn't find a cdrip for track 0
+You got the Quad Damage
+You got the Rocket Launcher
+You got the rockets
+You got the rockets
+You got the Pentagram of Protection
+Quad Damage is wearing off
+Spawn dies
+Protection is almost burned out
+Rottweiler dies
+]map e1m1
+
+FITZQUAKE 0.85 SERVER (3273 CRC)
+
+
+
+the Slipgate Complex
+Using protocol 666
+Grunt dies
+You get 5 shells
+Rottweiler dies
+Grunt dies
+You get 5 shells
+Grunt dies
+Rottweiler dies
+Grunt dies
+You get 5 shells
+You get 5 shells
+Grunt dies
+Rottweiler dies
+You get 5 shells
+Grunt dies
+Grunt dies
+You get 5 shells
+Grunt dies
+You get 5 shells
+You get 5 shells
+Shutting down SDL sound
