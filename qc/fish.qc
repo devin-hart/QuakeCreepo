@@ -129,7 +129,7 @@ void() f_death16 =[      $death16,       f_death17       ] {};
 void() f_death17 =[      $death17,       f_death18       ] {};
 void() f_death18 =[      $death18,       f_death19       ] {};
 void() f_death19 =[      $death19,       f_death20       ] {};
-void() f_death20 =[      $death20,       f_death21       ] {};
+void() f_death20 =[      $death20,       f_death21       ] {bprint("Rotfish dies\n");};
 void() f_death21 =[      $death21,       f_death21       ] {self.solid = SOLID_NOT;};
 
 void() f_pain1  =[      $pain1, f_pain2 ] {};
@@ -155,7 +155,6 @@ void(entity attacker, float damage)	fish_pain =
 */
 void() monster_fish =
 {
-	bprint("Rotfish dies\n");
 	if (deathmatch)
 	{
 		remove(self);
