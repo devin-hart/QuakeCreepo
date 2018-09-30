@@ -2,6 +2,7 @@ const http = require("http");
 const hostname = '127.0.0.1';
 const port = 3000;
 const fs = require('fs');
+const path = require('path');
 
 //Create HTTP server and listen on port 3000 for requests
 const server = http.createServer((req, res) => {
@@ -12,8 +13,12 @@ const server = http.createServer((req, res) => {
   res.end('Hello World\n');
 });
 
-const quakeReadLog = fs.createReadStream(__dirname + '/read.txt', 'utf8');
+// const quakeReadLog = fs.createReadStream(__dirname + '/read.txt', 'utf8');
+const quakeLogPath = path.resolve('D:\\Steam\\steamapps\\common\\Quake\\qconsole.log');
+const quakeReadLog = fs.createReadStream(quakeLogPath, 'utf8');
 const quakeWriteLog = fs.createWriteStream(__dirname + '/write.txt');
+
+console.log(quakeLogPath);
 
 
 quakeReadLog.on('data', function(data) {
