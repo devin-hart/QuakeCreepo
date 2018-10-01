@@ -1,4 +1,4 @@
-LOG started on: 09/30/2018 21:19:33 
+LOG started on: 09/30/2018 22:00:04 
 Playing registered version.
 Console initialized.
 UDP Initialized
@@ -38,76 +38,56 @@ FITZQUAKE 0.85 SERVER (26880 CRC)
 
 
 
-Introduction
+Kill them all
 Using protocol 666
-]map e1m1
-
-FITZQUAKE 0.85 SERVER (26880 CRC)
-
-
-
-the Slipgate Complex
-Using protocol 666
+Couldn't find a cdrip for track 0
+]game qcreepo
+"game" is already "qcreepo"
+]god
+godmode ON
+]impulse 255
+You got the Super Nailgun
+Ogre dies
+Knight dies
 Grunt dies
-You get 5 shells
+Zombie dies
+Grunt dies
+Grunt dies
+Rottweiler dies
 Rottweiler dies
 Grunt dies
-You get 5 shells
-Grunt dies
 Rottweiler dies
+Scrag dies
+You got the Rocket Launcher
 Grunt dies
-You get 5 shells
-You get 5 shells
+Grunt dies
+Grunt dies
+Fiend dies
+Scrag dies
+Knight dies
+Fiend dies
+Ogre dies
+Grunt dies
+Shambler dies
+You get 2 rockets
+You got the nails
+Ogre dies
+Shambler dies
+Zombie dies
+Quad Damage is wearing off
+Fiend dies
+Grunt dies
+You got the Quad Damage
+Zombie dies
+You got the nails
+You got the nails
+You get 2 rockets
 You got the shells
-You receive 15 health
-Grunt dies
-Rottweiler dies
-You get 5 shells
-Rottweiler dies
-You got the nailgun
-Grunt dies
-You get 5 shells
+You got the shells
+Quad Damage is wearing off
+Fiend dies
+]impulse 255
+Zombie dies
 You got the nails
-no weapon.
-no weapon.
-Grunt dies
-Grunt dies
-Grunt dies
 You get 5 shells
-You get 5 shells
-Grunt dies
-You get 5 shells
-Grunt dies
-
-          Only 2 more to go...
-
-You get 5 shells
-You receive 15 health
-Grunt dies
-You get 5 shells
-Grunt dies
-You get 5 shells
-Grunt dies
-You get 5 shells
-
-          Only 1 more to go...
-
-
-          Sequence completed!
-
-Grunt dies
-You get 5 shells
-Grunt dies
-Rottweiler dies
-You get 5 shells
-You receive 15 health
-Grunt dies
-Grunt dies
-You get 5 shells
-You get 5 shells
-You got the nails
-You receive 15 health
-
-    Walk into the slipgate to exit.
-
 Shutting down SDL sound

@@ -25,14 +25,65 @@ quakeReadLog.on('data', function (quakeLog) {
   console.log(quakeLog);
 
   let monsterCounter = {
-    "grunts": 0
+    "rotfish": 0,
+    "rottweiler": 0,
+    "grunt": 0,
+    "zombie": 0,
+    "knight": 0,
+    "enforcer": 0,
+    "scrag": 0,
+    "spawn": 0,
+    "ogre": 0,
+    "deathknight": 0,
+    "fiend": 0,
+    "vore": 0,
+    "shambler": 0
   };
 
   quakeLog.split('\n').forEach(function (line) {
-    if (line === 'Grunt dies\r') {
-      monsterCounter.grunts++;
-    }
 
+    switch (line) {
+      case 'Rotfish dies\r':
+        monsterCounter.rotfish++;
+        break;
+      case 'Rottweiler dies\r':
+        monsterCounter.rottweiler++;
+        break;
+      case 'Grunt dies\r':
+        monsterCounter.grunt++;
+        break;
+      case 'Zombie dies\r':
+        monsterCounter.zombie++;
+        break;
+      case 'Knight dies\r':
+        monsterCounter.knight++;
+        break;
+      case 'Enforcer dies\r':
+        monsterCounter.enforcer++;
+        break;
+      case 'Scrag dies\r':
+        monsterCounter.scrag++;
+        break;
+      case 'Spawn dies\r':
+        monsterCounter.spawn++;
+        break;
+      case 'Ogre dies\r':
+        monsterCounter.ogre++;
+        break;
+      case 'Death Knight dies\r':
+        monsterCounter.deathknight++;
+        break;
+      case 'Fiend dies\r':
+        monsterCounter.fiend++;
+        break;
+      case 'Vore dies\r':
+        monsterCounter.vore++;
+        break;
+      case 'Shambler dies\r':
+        monsterCounter.shambler++;
+        break;
+      default:
+    }
   });
 
   console.log(monsterCounter);
