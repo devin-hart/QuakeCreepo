@@ -1,4 +1,4 @@
-LOG started on: 09/30/2018 23:12:55 
+LOG started on: 10/01/2018 00:42:23 
 Playing registered version.
 Console initialized.
 UDP Initialized
@@ -34,45 +34,132 @@ execing config.cfg
 couldn't exec autoexec.cfg
 3 demo(s) in loop
 
-FITZQUAKE 0.85 SERVER (58999 CRC)
+FITZQUAKE 0.85 SERVER (5996 CRC)
 
 
 
-
+InsaneNinjaViper01
 Using protocol 666
+You got the Thunderbolt
+You got the Grenade Launcher
+You got the Rocket Launcher
+You got the nailgun
 You got the Double-barrelled Shotgun
 You got armor
-
-    Mission briefing: find the rune
-
-
-         Walk into the slipgate
-
-Knight dies
-
-       Location: the metal shrine
-
-You receive 25 health
-Knight dies
-Knight dies
+You got the Super Nailgun
+You got the rockets
 You got the shells
 You got the rockets
-Knight dies
-Knight dies
-Knight dies
-Knight dies
-Knight dies
-You receive 25 health
-]noclip
-noclip ON
+You got the shells
+You got the rockets
+You got the cells
+You got the cells
+You got the cells
+You got the rockets
+You got the Ring of Shadows
+You got the Biosuit
+You got the Quad Damage
+You got the Pentagram of Protection
+You got the nails
+You receive 100 health
 
            You got the rune!
 
+You got the nails
+Grunt dies
+Grunt dies
+Grunt dies
+Enforcer dies
+Enforcer dies
+Enforcer dies
+Grunt dies
+Enforcer dies
+Grunt dies
+Grunt dies
+Enforcer dies
+Enforcer dies
+Fiend dies
+Ogre dies
+Ogre dies
+Fiend dies
+Vore dies
+Fiend dies
+Ogre dies
+Knight dies
+Scrag dies
+Enforcer dies
+Knight dies
+Vore dies
+Vore dies
+Shambler dies
+Enforcer dies
+Spawn dies
+Zombie dies
+Zombie dies
+Knight dies
+Zombie dies
+Spawn dies
+Rottweiler dies
+Scrag dies
+Knight dies
+Scrag dies
+Enforcer dies
+Enforcer dies
+Scrag dies
+Fiend dies
+Death Knight dies
+Enforcer dies
+Rottweiler dies
+Spawn dies
+Rottweiler dies
+Death Knight dies
+Death Knight dies
+Scrag dies
+Ogre dies
+Death Knight dies
+Death Knight dies
+Ogre dies
+Zombie dies
+Spawn dies
+Spawn dies
+Zombie dies
+Zombie dies
+Ring of Shadows magic is fading
+Spawn dies
+Protection is almost burned out
+Quad Damage is wearing off
+Air supply in Biosuit expiring
+Fiend dies
+Vore dies
+Scrag dies
+Vore dies
+Death Knight dies
+You got the gold keycard
+Rottweiler dies
+]god
+godmode ON
+]impulse 255
+Rottweiler dies
+Vore dies
+Ogre dies
+Knight dies
+Shambler dies
+Knight dies
+Shambler dies
+Enforcer dies
+Shambler dies
+Shambler dies
+Fiend dies
+Rottweiler dies
+Shambler dies
+Shambler dies
+Rotfish dies
+Exited level
 
-FITZQUAKE 0.85 SERVER (58999 CRC)
+FITZQUAKE 0.85 SERVER (5996 CRC)
 
 
 
-the Slipgate Complex
+Introduction
 Using protocol 666
 Shutting down SDL sound

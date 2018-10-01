@@ -251,6 +251,7 @@ void() IntermissionThink =
 		return;
 	
 	ExitIntermission ();
+	bprint("Exited level\n");
 };
 
 void() execute_changelevel =
