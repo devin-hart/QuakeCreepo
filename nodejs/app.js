@@ -37,7 +37,9 @@ quakeReadLog.on('data', function (quakeLog) {
     "deathknight": 0,
     "fiend": 0,
     "vore": 0,
-    "shambler": 0
+    "shambler": 0,
+    "chthon": 0,
+    "shubniggurath": 0
   };
 
   quakeLog.split('\n').forEach(function (line) {
@@ -81,6 +83,12 @@ quakeReadLog.on('data', function (quakeLog) {
         break;
       case 'Shambler dies\r':
         monsterCounter.shambler++;
+        break;
+      case 'Chthon dies\r':
+        monsterCounter.chthon++;
+        break;
+      case 'Shub-Niggurath dies\r':
+        monsterCounter.shubniggurath++;
         break;
       default:
     }

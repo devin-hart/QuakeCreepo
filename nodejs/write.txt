@@ -1,4 +1,4 @@
-LOG started on: 09/30/2018 22:00:04 
+LOG started on: 09/30/2018 23:12:55 
 Playing registered version.
 Console initialized.
 UDP Initialized
@@ -34,60 +34,45 @@ execing config.cfg
 couldn't exec autoexec.cfg
 3 demo(s) in loop
 
-FITZQUAKE 0.85 SERVER (26880 CRC)
+FITZQUAKE 0.85 SERVER (58999 CRC)
 
 
 
-Kill them all
+
 Using protocol 666
-Couldn't find a cdrip for track 0
-]game qcreepo
-"game" is already "qcreepo"
-]god
-godmode ON
-]impulse 255
-You got the Super Nailgun
-Ogre dies
+You got the Double-barrelled Shotgun
+You got armor
+
+    Mission briefing: find the rune
+
+
+         Walk into the slipgate
+
 Knight dies
-Grunt dies
-Zombie dies
-Grunt dies
-Grunt dies
-Rottweiler dies
-Rottweiler dies
-Grunt dies
-Rottweiler dies
-Scrag dies
-You got the Rocket Launcher
-Grunt dies
-Grunt dies
-Grunt dies
-Fiend dies
-Scrag dies
+
+       Location: the metal shrine
+
+You receive 25 health
 Knight dies
-Fiend dies
-Ogre dies
-Grunt dies
-Shambler dies
-You get 2 rockets
-You got the nails
-Ogre dies
-Shambler dies
-Zombie dies
-Quad Damage is wearing off
-Fiend dies
-Grunt dies
-You got the Quad Damage
-Zombie dies
-You got the nails
-You got the nails
-You get 2 rockets
+Knight dies
 You got the shells
-You got the shells
-Quad Damage is wearing off
-Fiend dies
-]impulse 255
-Zombie dies
-You got the nails
-You get 5 shells
+You got the rockets
+Knight dies
+Knight dies
+Knight dies
+Knight dies
+Knight dies
+You receive 25 health
+]noclip
+noclip ON
+
+           You got the rune!
+
+
+FITZQUAKE 0.85 SERVER (58999 CRC)
+
+
+
+the Slipgate Complex
+Using protocol 666
 Shutting down SDL sound

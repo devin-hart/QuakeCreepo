@@ -183,7 +183,8 @@ void() finale_3 =
 
 void() finale_4 =
 {
-	// throw tons of meat chunks	
+	// throw tons of meat chunks
+	bprint("Shub-Niggurath dies\n");	
 	local	vector	oldo;
 	local	float	x, y, z;
 	local	float	r;
