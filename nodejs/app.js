@@ -13,19 +13,31 @@ const server = http.createServer((req, res) => {
   res.end('Hello World\n');
 });
 
-// const quakeReadLog = fs.createReadStream(__dirname + '/read.txt', 'utf8');
 const quakeLogPath = path.resolve('D:\\Steam\\steamapps\\common\\Quake\\qconsole.log');
 const quakeReadLog = fs.createReadStream(quakeLogPath, 'utf8');
 const quakeWriteLog = fs.createWriteStream(__dirname + '/write.txt');
 
 console.log(quakeLogPath);
 
-
-quakeReadLog.on('data', function(quakeLog) {
+quakeReadLog.on('data', function (quakeLog) {
   console.log("Writing to write.txt file ...");
   quakeWriteLog.write(quakeLog);
   console.log(quakeLog);
+
+  let monsterCounter = {
+    "grunts": 0
+  };
+
+  quakeLog.split('\n').forEach(function (line) {
+    if (line === 'Grunt dies\r') {
+      monsterCounter.grunts++;
+    }
+
+  });
+
+  console.log(monsterCounter);
 });
+
 
 //listen for request on port 3000, and as a callback function have the port listened on logged
 server.listen(port, hostname, () => {

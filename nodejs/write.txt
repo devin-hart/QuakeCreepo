@@ -1,4 +1,4 @@
-LOG started on: 09/30/2018 19:03:49 
+LOG started on: 09/30/2018 21:19:33 
 Playing registered version.
 Console initialized.
 UDP Initialized
@@ -33,72 +33,16 @@ execing default.cfg
 execing config.cfg
 couldn't exec autoexec.cfg
 3 demo(s) in loop
-]map qctest
 
-FITZQUAKE 0.85 SERVER (3273 CRC)
+FITZQUAKE 0.85 SERVER (26880 CRC)
 
 
 
-
+Introduction
 Using protocol 666
-Couldn't find a cdrip for track 0
-You got the Quad Damage
-You got the Rocket Launcher
-You got the rockets
-You got the rockets
-You got the Pentagram of Protection
-Spawn dies
-Rottweiler dies
-Grunt dies
-]map qctest
-
-FITZQUAKE 0.85 SERVER (3273 CRC)
-
-
-
-
-Using protocol 666
-Couldn't find a cdrip for track 0
-You got the Quad Damage
-You got the Rocket Launcher
-You got the rockets
-You got the Pentagram of Protection
-Spawn dies
-]map qctest
-
-FITZQUAKE 0.85 SERVER (3273 CRC)
-
-
-
-
-Using protocol 666
-Couldn't find a cdrip for track 0
-You got the Rocket Launcher
-You got the rockets
-You got the Quad Damage
-You got the rockets
-Spawn dies
-]map qctest
-
-FITZQUAKE 0.85 SERVER (3273 CRC)
-
-
-
-
-Using protocol 666
-Couldn't find a cdrip for track 0
-You got the Quad Damage
-You got the Rocket Launcher
-You got the rockets
-You got the rockets
-You got the Pentagram of Protection
-Quad Damage is wearing off
-Spawn dies
-Protection is almost burned out
-Rottweiler dies
 ]map e1m1
 
-FITZQUAKE 0.85 SERVER (3273 CRC)
+FITZQUAKE 0.85 SERVER (26880 CRC)
 
 
 
@@ -114,13 +58,56 @@ Rottweiler dies
 Grunt dies
 You get 5 shells
 You get 5 shells
+You got the shells
+You receive 15 health
 Grunt dies
 Rottweiler dies
 You get 5 shells
+Rottweiler dies
+You got the nailgun
 Grunt dies
+You get 5 shells
+You got the nails
+no weapon.
+no weapon.
+Grunt dies
+Grunt dies
+Grunt dies
+You get 5 shells
+You get 5 shells
+Grunt dies
+You get 5 shells
+Grunt dies
+
+          Only 2 more to go...
+
+You get 5 shells
+You receive 15 health
 Grunt dies
 You get 5 shells
 Grunt dies
 You get 5 shells
+Grunt dies
 You get 5 shells
+
+          Only 1 more to go...
+
+
+          Sequence completed!
+
+Grunt dies
+You get 5 shells
+Grunt dies
+Rottweiler dies
+You get 5 shells
+You receive 15 health
+Grunt dies
+Grunt dies
+You get 5 shells
+You get 5 shells
+You got the nails
+You receive 15 health
+
+    Walk into the slipgate to exit.
+
 Shutting down SDL sound
