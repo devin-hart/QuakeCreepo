@@ -92,26 +92,12 @@ quakeReadLog.on('data', function (quakeLog) {
         break;
       case 'Exited level\r':
         console.log(monsterCounter);
-        monsterCounter.rotfish = 0;
-        monsterCounter.rottweiler = 0;
-        monsterCounter.grunt = 0;
-        monsterCounter.zombie = 0;
-        monsterCounter.knight = 0;
-        monsterCounter.enforcer = 0;
-        monsterCounter.scrag = 0;
-        monsterCounter.spawn = 0;
-        monsterCounter.ogre = 0;
-        monsterCounter.deathknight = 0;
-        monsterCounter.fiend = 0;
-        monsterCounter.vore = 0;
-        monsterCounter.shambler = 0;
-        monsterCounter.chthon = 0;
-        monsterCounter.shugniggurath = 0;
+        Object.keys(monsterCounter).forEach(value => monsterCounter[value] = 0);
       default:
     }
   });
 
-  // console.log(monsterCounter);
+  console.log(monsterCounter);
 });
 
 
